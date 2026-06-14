@@ -16,7 +16,7 @@
 可视化	D3.js 力导向图展示推理链结构，支持拖拽、缩放、高亮
 快速开始
 方式一：GitHub Pages 在线演示（无需后端）
-直接访问：https://你的用户名.github.io/hotpotqa-viz/
+直接访问：https://leon423-lzzz.github.io/hotpotqa-viz/
 
     此模式使用预生成的演示数据，展示完整前端界面与交互逻辑。
 
